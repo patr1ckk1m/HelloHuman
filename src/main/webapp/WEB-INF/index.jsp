@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Hello ${searchQuery}</title>
 </head>
 <body>
-	<h1>Hello Human</h1>
+	<h1>Hello ${searchQuery }</h1>
 	<h3>Welcome to spring boot</h3>
 </body>
 </html>
